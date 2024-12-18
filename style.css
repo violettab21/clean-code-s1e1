@@ -4,6 +4,11 @@
   color: #333;
   font-family: Lato, sans-serif;
 }
+.page__title_hidden,
+.item-creation__title_hidden {
+  visibility: hidden;
+  position: absolute;
+}
 .header {
   width: 500px;
   margin: 0 auto;
